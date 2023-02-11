@@ -1,15 +1,17 @@
 {
-	"name": "com.owencoopersfx.ocsfx-tools",
-	"version": "1.0.0",
-	"displayName": "OCSFX Unity Tools and Extensions",
-	"description": "",
-	"unity": "2020.1",
-	"dependencies": {
-		},
-	"keywords": ["tools", "extensions", "ocsfx"],
-	"author": {
-		"name": "Owen Cooper",
-		"email": "owencoopersfx@gmail.com",
-		"url": "https://www.owencoopersound.com"
-	}
+  "name": "com.owencoopersfx.ocsfx-tools",
+  "version": "1.0.0",
+  "displayName": "OCSFX Tools",
+  "description": "OwenCooperSFX Tools and Extensions for Unity.",
+  "unity": "2020.1",
+  "keywords": [
+    "tools",
+    "extensions",
+    "ocsfx"
+  ],
+  "author": {
+    "name": "Owen Cooper",
+    "email": "owencoopersfx@gmail.com",
+    "url": "https://www.owencoopersound.com"
+  }
 }
